@@ -1,4 +1,4 @@
-### Hi there, I'm Daria 🙌🏻🌻 - aka QA Engineer
+### Hi there, I'm Dasha 🙌🏻🌻 - aka QA Engineer
 
 - 🔭 I am taking a course: [QA.GURU](https://qa.guru/)
 - 🌱 I’m currently learning everything 😌
