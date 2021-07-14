@@ -10,6 +10,7 @@
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/daria-ryzhykova-3794b3139/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/qa_notes?utm_medium=copy_link)
+[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://www.seekpng.com/png/detail/237-2372802_telegram-logo-png-transparent-telegram-logo-telegram-icon.png" />](https://t.me/Darielllla)
 
 <br />
 
