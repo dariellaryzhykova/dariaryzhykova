@@ -1,9 +1,8 @@
-### Hi there, I'm Dasha 🙌🏻🌻 - aka QA Engineer
+### Hi there, I'm Dariella 🙌🏻🌻 - aka QA Engineer
 
-- 🔭 I am taking a course: [QA.GURU](https://qa.guru/)
 - 🌱 I’m currently learning everything 😌
 - 👯 I’m looking to collaborate with others QAs
-- 🥅 2021 Goals: Improve my QA Automation skills
+- 🥅 2024 Goals: be better version of myself
 - ⚡ Fun fact: I love to dance and play handpan
 
 ### Connect with me:
